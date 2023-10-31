@@ -6,7 +6,7 @@ const showMore = document.getElementById("show-more-button");
 
 
 
-const API_KEY = 'Q2O-6RsXdGhqlYOCGmapIA4dhQTI9rwXuBUtdOxR0qk';
+const API_KEY = '';
 let page = 1;
 let inputData = "";
 searchResult.innerHTML = "";
